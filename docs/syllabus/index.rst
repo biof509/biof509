@@ -16,7 +16,7 @@ First class: 4th February 2016
 
 Final class: 12th May 2016
 
-*This document is subject to revision. Last revised 1st Feb 2016.*
+*This document is subject to revision. Last revised 2nd Feb 2016.*
 
 Course Description
 ------------------
@@ -144,7 +144,7 @@ Grading the final project will follow the following rubric:
 Course Materials
 ----------------
 
-Course materials are available from [the github repository]() - not yet available
+Course materials are available from `the github repository <https://github.com/streety/biof509>`_ - not yet available
 
 
 Schedule

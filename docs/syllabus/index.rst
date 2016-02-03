@@ -144,7 +144,8 @@ Grading the final project will follow the following rubric:
 Course Materials
 ----------------
 
-Course materials are available from `the github repository <https://github.com/streety/biof509>`_ - not yet available
+Course materials are available from 
+`the github repository <https://github.com/streety/biof509>`_.
 
 
 Schedule

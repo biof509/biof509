@@ -27,3 +27,9 @@ can be created with::
 
 The necessary command to activate this new environment will depend on your
 `operating system <http://conda.pydata.org/docs/test-drive.html#managing-envs>`_. 
+
+
+Files
+-----
+
+`Refresher Exercises <../Wk01-Overview.ipynb>`_

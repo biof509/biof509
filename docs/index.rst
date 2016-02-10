@@ -16,6 +16,7 @@ Contents:
 
    syllabus/index.rst
    week1/index.rst
+   week2/index.rst
 
 Indices and tables
 ==================

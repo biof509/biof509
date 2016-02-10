@@ -33,3 +33,4 @@ Files
 -----
 
 `Refresher Exercises <../Wk01-Overview.ipynb>`_
+`Solutions <../Wk01-Exercise-solutions.ipynb>`_

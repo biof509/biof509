@@ -12,4 +12,4 @@ Files
 
 Please download the notebook.
 
-* `Development guide and optimization <../Wk03-Paradigms.ipynb>`_
+* `Programming paradigms including OOP <../Wk03-Paradigms.ipynb>`_

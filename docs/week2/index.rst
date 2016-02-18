@@ -12,5 +12,5 @@ Files
 
 Please download and unpack the zip archive for class.
 
-`Development guide and optimization <../Wk02-Development.ipynb>`_
-`Zip archive with all files <../Wk02.zip>`_
+* `Development guide and optimization <../Wk02-Development.ipynb>`_
+* `Zip archive with all files <../Wk02.zip>`_

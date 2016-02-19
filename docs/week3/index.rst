@@ -13,3 +13,4 @@ Files
 Please download the notebook.
 
 * `Programming paradigms including OOP <../Wk03-Paradigms.ipynb>`_
+* `Class lists for exercises covered in class <../Wk03-Paradigms-in-class-exercises.ipynb>`_

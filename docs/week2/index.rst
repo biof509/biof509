@@ -14,3 +14,4 @@ Please download and unpack the zip archive for class.
 
 * `Development guide and optimization <../Wk02-Development.ipynb>`_
 * `Zip archive with all files <../Wk02.zip>`_
+* `Solutions to the code extension exercises <../Wk02-partial-solutions.ipynb>`_

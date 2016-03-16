@@ -17,3 +17,4 @@ Please download the following files.
 
 * `Designing the public interface <../Wk05-OOP-Public-interface.ipynb>`_
 * `Simple web application <../Wk05-wsgi.py>`_
+* `Solution for assignment <../Wk05-OOP-Public-interface-Solution.ipynb>`_

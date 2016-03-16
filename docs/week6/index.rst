@@ -17,7 +17,7 @@ A more popular approach is to use a framework that implements many of the common
 * Error handling
 * Security (but still need to be careful)
 
-There are a `large number<https://wiki.python.org/moin/WebFrameworks/>`_ of very well developed frameworks available.
+There are a `large number <https://wiki.python.org/moin/WebFrameworks/>`_ of very well developed frameworks available.
 
 The two that are perhaps most popular currently are:
 
@@ -49,4 +49,4 @@ Files
 
 Please download the following files.
 
-* `Web application <../wk06.zip>`_
+* `Web application <../Wk06.zip>`_

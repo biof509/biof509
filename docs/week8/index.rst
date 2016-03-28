@@ -12,4 +12,5 @@ Files
 Please download the following file and unzip.
 
 * `Notebook <../Wk08_Numpy_model_package_survey.ipynb>`_
+* `Notebook with exercises from class <../Wk08_Numpy_model_package_survey_inclass_exercises.ipynb>`_
 

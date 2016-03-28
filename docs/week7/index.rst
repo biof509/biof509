@@ -14,4 +14,5 @@ Files
 Please download the following file and unzip.
 
 * `Overview <../Wk07-Common-ML-tasks.zip>`_
+* `Solutions <../Wk07_solutions.ipynb>`_
 

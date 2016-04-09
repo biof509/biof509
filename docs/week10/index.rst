@@ -11,4 +11,5 @@ Files
 Please download the following file.
 
 * `Notebook <../Wk10-dimensionality-reduction-clustering.ipynb>`_
+* `Solutions to the exercises <../Wk10-dimensionality-reduction-clustering-in-class-solutions.ipynb>`_
 

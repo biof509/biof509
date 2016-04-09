@@ -11,4 +11,5 @@ Files
 Please download the following file.
 
 * `Notebook <../Wk09_Dataset-preprocessing.ipynb>`_
+* `Solutions to the exercises <../Wk09_Dataset-preprocessing-in-class-solutions.ipynb>`_
 

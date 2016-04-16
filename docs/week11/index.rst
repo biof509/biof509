@@ -11,4 +11,5 @@ Files
 Please download the following file.
 
 * `Notebook <../Wk11-regression-classification.ipynb>`_
+* `In solution exercises <../Wk11-regression-classification-in-class-exercises.ipynb>`_
 

@@ -11,5 +11,6 @@ Files
 Please download the following file.
 
 * `Notebook <../Wk12-machine-learning-workflow.ipynb>`_
+* `In class exercise solutions <../Wk12-machine-learning-workflow-in-class-exercises.ipynb>`_
 
 

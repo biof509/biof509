@@ -4,7 +4,7 @@ Syllabus
 **BIOF509 - Machine Learning and Object-Oriented Programming with Python**
 
 
-**Spring 2016**
+**Fall 2016**
 
 
 Instructors:
@@ -12,11 +12,11 @@ Instructors:
 * Jonathan Street (jonathan.street@nih.gov)
 * \R. Burke Squires (richard.squires@nih.gov)
 
-First class: 4th February 2016
+First class: 15th September 2016
 
-Final class: 12th May 2016
+Final class: 15th December 2016
 
-*This document is subject to revision. Last revised 2nd Feb 2016.*
+*This document is subject to revision. Last revised 11th September 2016.*
 
 Course Description
 ------------------
@@ -51,7 +51,7 @@ By the end of this course you should be able to:
 Logistics
 ---------
 
-This is a 15 week course starting on the 4th February 2016, and finishing on 12th May 2016. Classes will take place between 5:30pm and 7:30pm each Thursday in building 10, room B1C207 within the FAES Academic Center.
+This is a 15 week course starting on the 15th September 2016, and finishing on 15th December 2016. Classes will take place between 5:30pm and 7:30pm each Thursday in building 10, room B1C209 within the FAES Academic Center.
 
 Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be sent to all learners via email.
 
@@ -59,8 +59,8 @@ Most classes will have hands-on tutorials and assignments. Both practice and gra
 
 Important dates:
 
-* 04 Mar 2016 - Last day to drop/withdraw
-* 08 Apr 2016 - Last day to change status (credit or audit)
+* 07 Oct 2016 - Last day to drop/withdraw
+* 10 Nov 2016 - Last day to change status (credit or audit)
 
 Required Materials
 ------------------
@@ -89,6 +89,8 @@ Assignments and Grading
 -----------------------
 
 The emphasis of the course is on learning and mastering the skills covered. It is our hope that everyone will be able to complete the assignments and project. If some of the material appears unclear please ask for clarification.
+
+The final project is 40% of the course, with the weekly assignments representing the remainder.
 
 Grading assignments will follow the following rubric:
 
@@ -151,32 +153,34 @@ Course materials are available from
 Schedule
 --------
 
-**Week 1 (04 Feb 2016):** Course overview, troubleshooting software installation, and a refresher on the basics of python
+**Week 1 (15 Sep 2016):** Course overview, troubleshooting software installation, and a refresher on the basics of python
 
-**Week 2 (11 Feb 2016):** The tools used to aid developemt. Recording experiments performed. Our first machine learning model.
+**Week 2 (22 Sep 2016):** Common machine learning tasks.
 
-**Week 3 (18 Feb 2016):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
+**Week 3 (29 Sep 2016):** Linear regression with numpy. Overview of scikit-learn.
 
-**Week 4 (25 Feb 2016):** Inheritance and abstraction. Graphical User Interfaces (GUIs)
+**Week 4 (09 Oct 2016):** Dataset preprocessing.
 
-**Week 5 (03 Mar 2016):** Crafting the public interface. Choosing when and how to raise and handle exceptions.
+**Week 5 (13 Oct 2016):** Dimensionality reduction and clustering
 
-**Week 6 (10 Mar 2016):** WSGI as an example interface. Creating web applications.
+**Week 6 (20 Oct 2016):** Regression and classification.
 
-**Week 7 (17 Mar 2016):** Common machine learning tasks.
+**Week 7 (27 Oct 2016):** The machine learning workflow.
 
-**Week 8 (24 Mar 2016):** Linear regression with numpy. Overview of scikit-learn.
+**Week 8 (03 Nov 2016):** Advanced ML tasks.
 
-**Week 9 (31 Mar 2016):** Dataset preprocessing.
+**Week 9 (10 Nov 2016):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
 
-**Week 10 (07 Apr 2016):** Dimensionality reduction and clustering
+**Week 10 (17 Nov 2016):** Inheritance and abstraction. Graphical User Interfaces (GUIs)
 
-**Week 11 (14 Apr 2016):** Regression and classification.
+**Week 11 (24 Nov 2016):** **Thanksgiving** Crafting the public interface. Choosing when and how to raise and handle exceptions.
 
-**Week 12 (21 Apr 2016):** The machine learning workflow.
+**Week 12 (01 Dec 2016):** WSGI as an example interface. Creating web applications.
 
-**Week 13 (28 Apr 2016):** Advanced ML tasks.
+**Week 13 (08 Dec 2016):** Project presentations
 
-**Week 14 (05 May 2016):** Project presentations.
+**Week 14 (15 Dec 2016):** Project presentations.
 
-**Week 15 (12 May 2016):** Project presentations.
+
+
+The tools used to aid developemt. Recording experiments performed. Our first machine learning model.

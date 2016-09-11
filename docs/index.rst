@@ -16,18 +16,6 @@ Contents:
 
    syllabus/index.rst
    week1/index.rst
-   week2/index.rst
-   week3/index.rst
-   week4/index.rst
-   week5/index.rst
-   week6/index.rst
-   week7/index.rst
-   week8/index.rst
-   week9/index.rst
-   week10/index.rst
-   week11/index.rst
-   week12/index.rst
-   week13/index.rst
 
 Indices and tables
 ==================

@@ -2,7 +2,7 @@ Week 6
 ======
 
 
-In week we will work through a dataset and complete a regression task.
+In week 6 we will work through a dataset and complete a regression task.
 
 
 

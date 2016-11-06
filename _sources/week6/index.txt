@@ -13,3 +13,4 @@ Files
 Download the file below.
 
 * `Week 6 Regression and Classification <../Wk06-regression-classification.ipynb>`_
+* `Week 6 Regression and Classification with in class material <../Wk06-regression-classification-in-class.ipynb>`_

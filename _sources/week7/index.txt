@@ -13,3 +13,4 @@ Files
 Download the file below.
 
 * `Week 7 Machine learning workflow <../Wk07-machine-learning-workflow.ipynb>`_
+* `Week 7 Machine learning workflow with in class material <../Wk07-machine-learning-workflow-in-class.ipynb>`_

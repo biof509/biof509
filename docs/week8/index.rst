@@ -13,3 +13,5 @@ Files
 Download the file below.
 
 * `Week 8 Advanced machine learning <../Wk08-Advanced-ML-tasks.ipynb>`_
+* `Week 8 Advanced machine learning with in class material<../Wk08-Advanced-ML-tasks-in-class.ipynb>`_
+* `NIH HPC Biowulf project <../HPC-deep-learning-project.zip>`_

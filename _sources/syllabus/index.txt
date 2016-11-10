@@ -173,7 +173,7 @@ Schedule
 
 **Week 10 (17 Nov 2016):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
 
-**Week 11 (**Monday** 28 Nov 2016):** **Thanksgiving substitute** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
+**Week 11 (Monday 28 Nov 2016):** **Thanksgiving substitute** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
 
 **Week 12 (01 Dec 2016):** WSGI as an example interface. Creating web applications.
 

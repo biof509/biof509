@@ -16,7 +16,7 @@ First class: 15th September 2016
 
 Final class: 15th December 2016
 
-*This document is subject to revision. Last revised 11th September 2016.*
+*This document is subject to revision. Last revised 9th November 2016.*
 
 Course Description
 ------------------
@@ -171,9 +171,9 @@ Schedule
 
 **Week 9 (10 Nov 2016):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
 
-**Week 10 (17 Nov 2016):** Inheritance and abstraction. Graphical User Interfaces (GUIs)
+**Week 10 (17 Nov 2016):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
 
-**Week 11 (24 Nov 2016):** **Thanksgiving** Crafting the public interface. Choosing when and how to raise and handle exceptions.
+**Week 11 (**Monday** 28 Nov 2016):** **Thanksgiving substitute** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
 
 **Week 12 (01 Dec 2016):** WSGI as an example interface. Creating web applications.
 

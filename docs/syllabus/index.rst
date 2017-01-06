@@ -4,19 +4,20 @@ Syllabus
 **BIOF509 - Machine Learning and Object-Oriented Programming with Python**
 
 
-**Fall 2016**
+**Spring 2017**
 
 
 Instructors:
 
 * Jonathan Street (jonathan.street@nih.gov)
-* \R. Burke Squires (richard.squires@nih.gov)
+* Alexander Goncearenco (alexandr.goncearenco@nih.gov)
+* Anu Nagarajan (anu.nagarajan@nih.gov)
 
-First class: 15th September 2016
+First class: 30th January 2017
 
-Final class: 15th December 2016
+Final class: 8th May 2017
 
-*This document is subject to revision. Last revised 9th November 2016.*
+*This document is subject to revision. Last revised 6th January 2017.*
 
 Course Description
 ------------------
@@ -28,30 +29,31 @@ By the end of this course you should be able to:
 
 1. Create working python programs using the basic features of the python language together with numpy, pandas, and biopython (A brief refresh)
 2. Demonstrate the tools commonly used in professional settings to aid development
-3. Compare different programming paradigms including procedural, functional and object oriented.
-4. Define what an object is in the context of programming
-5. Identify the features of an object definition
-6. Contrast attributes, properties and methods
-7. Review special methods
-8. Design a public interface for a class
-9. Utilize inheritance and abstraction
-10. Choose when and how to raise and handle exceptions appropriately
-11. Describe the common types of machine learning tasks
-12. Implement a simple linear regression model utilizing numpy
-13. List the advantages and disadvantages of different machine learning algorithms
-14. Apply machine learning algorithms for both regression and classification
-15. Convert a data set into a form suitable for use by machine learning algorithms
-16. Apply dimensionality reduction to a data set for visualization and further processing
-17. Identify subpopulations using clustering algorithms
-18. Choose appropriate model parameters
-19. Evaluate the results of a machine learning model
-20. Integrate a machine learning model in a workflow
+
+3. Describe the common types of machine learning tasks
+4. Implement a simple linear regression model utilizing numpy
+5. List the advantages and disadvantages of different machine learning algorithms
+6. Apply machine learning algorithms for both regression and classification
+7. Convert a data set into a form suitable for use by machine learning algorithms
+8. Apply dimensionality reduction to a data set for visualization and further processing
+9. Identify subpopulations using clustering algorithms
+10. Choose appropriate model parameters
+11. Evaluate the results of a machine learning model
+12. Integrate a machine learning model in a workflow
+13. Compare different programming paradigms including procedural, functional and object oriented.
+14. Define what an object is in the context of programming
+15. Identify the features of an object definition
+16. Contrast attributes, properties and methods
+17. Review special methods
+18. Design a public interface for a class
+19. Utilize inheritance and abstraction
+20. Choose when and how to raise and handle exceptions appropriately
 
 
 Logistics
 ---------
 
-This is a 15 week course starting on the 15th September 2016, and finishing on 15th December 2016. Classes will take place between 5:30pm and 7:30pm each Thursday in building 10, room B1C209 within the FAES Academic Center.
+This is a 15 week course starting on the 30th January 2017, and finishing on 8th May 2017. Classes will take place between 5:30pm and 7:30pm each Monday in building 10, room B1C209 within the FAES Academic Center.
 
 Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be sent to all learners via email.
 
@@ -59,8 +61,8 @@ Most classes will have hands-on tutorials and assignments. Both practice and gra
 
 Important dates:
 
-* 07 Oct 2016 - Last day to drop/withdraw
-* 10 Nov 2016 - Last day to change status (credit or audit)
+* 24 Feb 2017 - Last day to drop/withdraw
+* 31 Mar 2017 - Last day to change status (credit or audit)
 
 Required Materials
 ------------------
@@ -153,34 +155,32 @@ Course materials are available from
 Schedule
 --------
 
-**Week 1 (15 Sep 2016):** Course overview, troubleshooting software installation, and a refresher on the basics of python
+**Week 1 (30 Jan 2017):** Course overview, troubleshooting software installation, and a refresher on the basics of python
 
-**Week 2 (22 Sep 2016):** Common machine learning tasks.
+**Week 2 (06 Feb 2017):** Common machine learning tasks and basic object oriented programming
 
-**Week 3 (29 Sep 2016):** Linear regression with numpy. Overview of scikit-learn.
+**Week 3 (13 Feb 2017):** Linear regression with numpy. Overview of scikit-learn.
 
-**Week 4 (09 Oct 2016):** Dataset preprocessing.
+**Week 4 (Friday 24 Feb 2017):** **Rescheduled to Friday due to President's Day** Data retrieval and dataset preprocessing.
 
-**Week 5 (13 Oct 2016):** Dimensionality reduction and clustering
+**Week 5 (27 Feb 2017):** Regression and classification.
 
-**Week 6 (20 Oct 2016):** Regression and classification.
+**Week 6 (06 Mar 2017):** Unsupervised learning and clustering
 
-**Week 7 (27 Oct 2016):** The machine learning workflow.
+**Week 7 (13 Mar 2017):** Dimensionality reduction and feature selection
 
-**Week 8 (03 Nov 2016):** Advanced ML tasks.
+**Week 8 (20 Mar 2017):** The machine learning workflow.
 
-**Week 9 (10 Nov 2016):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
+**Week 9 (27 Mar 2017):** Advanced ML tasks.
 
-**Week 10 (17 Nov 2016):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
+**Week 10 (03 Apr 2017):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
 
-**Week 11 (Monday 28 Nov 2016):** **Thanksgiving substitute** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
+**Week 11 (10 Apr 2017):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
 
-**Week 12 (01 Dec 2016):** WSGI as an example interface. Creating web applications.
+**Week 12 (17 Apr 2017):** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
 
-**Week 13 (08 Dec 2016):** Project presentations
+**Week 13 (24 Apr 2017):** WSGI as an example interface. Creating web applications.
 
-**Week 14 (15 Dec 2016):** Project presentations.
+**Week 14 (01 May 2017):** Project presentations.
 
-
-
-The tools used to aid developemt. Recording experiments performed. Our first machine learning model.
+**Week 15 (08 May 2017):** Project presentations.

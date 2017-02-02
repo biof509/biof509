@@ -32,4 +32,9 @@ The necessary command to activate this new environment will depend on your
 Files
 -----
 
-`Refresher Exercises <../Wk01-Overview.ipynb>`_
+ `Refresher Exercises <../Wk01-Overview.ipynb>`_
+ 
+Solutions
+---------
+
+The solutions to the exercises are available: :doc:`solutions`

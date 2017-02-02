@@ -1,7 +1,7 @@
 Week 1 Solutions
 ================
 
-The notebook with the `completed exercises can be downloaded <../Wk01-Overview.ipynb>`_
+The notebook with the `completed exercises can be downloaded <../Wk01-Overview-solution.ipynb>`_
 
 A series of videos walking through generating the solutions is included below.
 

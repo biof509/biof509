@@ -15,6 +15,6 @@ Files
 
 Download and extract the zip archive below:
 
- `Refresher Exercises <../Wk02-Common-ML-tasks.zip>`_
+ `Common machine learning tasks <../Wk02-Common-ML-tasks.zip>`_
  
 

@@ -1,7 +1,7 @@
 Further Resources
 =================
 
-
+Beyond the course you may be interested in the following resources and groups.
 
 NIH groups
 ----------

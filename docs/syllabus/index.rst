@@ -17,7 +17,7 @@ First class: 30th January 2017
 
 Final class: 8th May 2017
 
-*This document is subject to revision. Last revised 6th January 2017.*
+*This document is subject to revision. Last revised 12th February 2017.*
 
 Course Description
 ------------------
@@ -161,7 +161,7 @@ Schedule
 
 **Week 3 (13 Feb 2017):** Linear regression with numpy. Overview of scikit-learn.
 
-**Week 4 (Friday 24 Feb 2017):** **Rescheduled to Friday due to President's Day** Data retrieval and dataset preprocessing.
+**Week 4 (Tuesday 21 Feb 2017):** **Rescheduled to Tuesday due to President's Day** Data retrieval and dataset preprocessing.
 
 **Week 5 (27 Feb 2017):** Regression and classification.
 

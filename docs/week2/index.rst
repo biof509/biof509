@@ -16,5 +16,6 @@ Files
 Download and extract the zip archive below:
 
  `Common machine learning tasks <../Wk02-Common-ML-tasks.zip>`_
+ `Exercise solutions <../Wk02-exercise-solutions.zip>`_
  
 

@@ -15,6 +15,6 @@ Files
 
 Download the notebook below:
 
- `Common machine learning tasks <../Wk03-Numpy-model-package-survey.ipynb>`_
+ `Numpy model and ML package survey <../Wk03-Numpy-model-package-survey.ipynb>`_
  
 

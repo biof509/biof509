@@ -17,7 +17,7 @@ First class: 30th January 2017
 
 Final class: 8th May 2017
 
-*This document is subject to revision. Last revised 12th February 2017.*
+*This document is subject to revision. Last revised 26th March 2017.*
 
 Course Description
 ------------------
@@ -167,20 +167,22 @@ Schedule
 
 **Week 6 (06 Mar 2017):** Unsupervised learning and clustering
 
-**Week 7 (13 Mar 2017):** Dimensionality reduction and feature selection
+**13 Mar 2017:** Canceled due to risk of severe weather
 
-**Week 8 (20 Mar 2017):** The machine learning workflow.
+**Week 7 (20 Mar 2017):** Dimensionality reduction and feature selection
 
-**Week 9 (27 Mar 2017):** Advanced ML tasks.
+**Week 8 (27 Mar 2017):** The machine learning workflow.
 
-**Week 10 (03 Apr 2017):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
+**Week 9 (03 Apr 2017):** Advanced ML tasks.
 
-**Week 11 (10 Apr 2017):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
+**Week 10 (10 Apr 2017):** Different programming paradigms, including object-oriented programming. The class definition - Attributes, properties, methods, and special methods.
 
-**Week 12 (17 Apr 2017):** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
+**Week 11 (17 Apr 2017):** Inheritance and abstraction. Crafting the public interface. Choosing when and how to raise and handle exceptions.
 
-**Week 13 (24 Apr 2017):** WSGI as an example interface. Creating web applications.
+**Week 12 (24 Apr 2017):** Developing applications with OOP. Graphical User Interfaces (GUIs) as an example.
 
-**Week 14 (01 May 2017):** Project presentations.
+**Week 13 (01 May 2017):** WSGI as an example interface. Creating web applications.
 
-**Week 15 (08 May 2017):** Project presentations.
+**Week 14 (08 May 2017):** Project presentations.
+
+**Week 15 (TBD):** Project presentations.

@@ -1,0 +1,269 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Week 9 &mdash; BIOF509 1.0 documentation</title>
+  
+
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  
+
+  
+
+  
+    <link rel="top" title="BIOF509 1.0 documentation" href="../index.html"/>
+        <link rel="next" title="Further Resources" href="../resources/index.html"/>
+        <link rel="prev" title="Week 8" href="../week8/index.html"/> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../index.html" class="icon icon-home"> BIOF509
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                1.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+                <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../syllabus/index.html">Syllabus</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week1/index.html">Week 1</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week2/index.html">Week 2</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week3/index.html">Week 3</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week4/index.html">Week 4</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week5/index.html">Week 5</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week6/index.html">Week 6</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week7/index.html">Week 7</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../week8/index.html">Week 8</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="">Week 9</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#deep-learning">Deep learning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#active-learning">Active learning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#recommendation-systems">Recommendation systems</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#semi-supervised-learning">Semi-supervised learning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#reinforcement-learning">Reinforcement learning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#anomaly-detection">Anomaly detection</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../resources/index.html">Further Resources</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href="../index.html">BIOF509</a>
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../index.html">Docs</a> &raquo;</li>
+      
+    <li>Week 9</li>
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            <a href="../_sources/week9/index.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="week-9">
+<h1>Week 9<a class="headerlink" href="#week-9" title="Permalink to this headline">¶</a></h1>
+<p>In week 9 we will look at some further applications of machine learning.</p>
+<p>Machine learning is a vast field necessitating selective coverage in the past 7 weeks. As your experience increases and you venture into new areas and explore advanced techniques hopefully the material here will provide a starting point.</p>
+<p>We will not have time to cover everything here during the class.</p>
+<div class="section" id="deep-learning">
+<h2>Deep learning<a class="headerlink" href="#deep-learning" title="Permalink to this headline">¶</a></h2>
+<p>Many of the recent advancements in machine learning performance have been due to the application of deep learning techniques. Deep learning is not restricted to any particular task. Advances have been seen in classification, regression, unsupervised learning, reinforcement learning and others.</p>
+<p>One reason we have not applied deep learning in previous classes is the requirement for more intensive computing. Deep learning models are almost always trained on GPUs, leveraging their highly parallel architecture to execute billions of calculations. Models that may take minutes on a GPU can take months on a CPU, and be infeasible.</p>
+<p>There are two main options for working with deep learning techniques, purchase a powerful GPU or utilize cloud based resources. At NIH, the High Performance Computing group operates the biowulf cluster that has GPUs available. Outside NIH, the amazon cloud, AWS, and microsoft cloud, azure, together with many other smaller providers also provide GPU equipped servers.</p>
+<ul class="simple">
+<li><a class="reference external" href="../Wk09-Advanced-ML-tasks-Deep-Learning.ipynb">Week 9 Deep learning</a></li>
+</ul>
+</div>
+<div class="section" id="active-learning">
+<h2>Active learning<a class="headerlink" href="#active-learning" title="Permalink to this headline">¶</a></h2>
+<p>Generating labels for data can be sufficiently expensive and time consuming that completely labeling a dataset is often not possible. Active learning leverages machine learning techniques to identify the samples for which labels would be most informative.</p>
+<p>Samples to be labeled are chosen by the active learning algorithm. The expectation is that for a given number of samples the eventual performance will be better than for a randomly chosen set of samples.</p>
+<ul class="simple">
+<li><a class="reference external" href="../Wk09-Advanced-ML-tasks-Active-Learning.ipynb">Week 9 Active learning</a></li>
+</ul>
+</div>
+<div class="section" id="recommendation-systems">
+<h2>Recommendation systems<a class="headerlink" href="#recommendation-systems" title="Permalink to this headline">¶</a></h2>
+<p>Recommendation systems have seen widespread commercial use. Their use is perhaps most obvious in online retailing where they are used for recommending products to customers. These systems can either be content-based and leverage the similarities between products or collaborative and leverage the preferences of simlar users.</p>
+<ul class="simple">
+<li><a class="reference external" href="../Wk09-Advanced-ML-tasks-Recommendation-Systems.ipynb">Week 9 Recommendation systems</a></li>
+</ul>
+</div>
+<div class="section" id="semi-supervised-learning">
+<h2>Semi-supervised learning<a class="headerlink" href="#semi-supervised-learning" title="Permalink to this headline">¶</a></h2>
+<p>Correctly labeling data can often be an expensive and time consuming process resulting in large datasets that are only partially labeled. Semi-supervised learning attempts to fully utilize both the labeled and unlabeled data. Even in the absence of labels the structure and distribution of the unlabeled data can be used to refine the model.</p>
+<ul class="simple">
+<li><a class="reference external" href="../Wk09-Advanced-ML-tasks-Semi-supervised-Learning.ipynb">Week 9 Semi-supervised learning</a></li>
+</ul>
+</div>
+<div class="section" id="reinforcement-learning">
+<h2>Reinforcement learning<a class="headerlink" href="#reinforcement-learning" title="Permalink to this headline">¶</a></h2>
+<p>Reinforcement learning focuses on optimizing the actions of software agents (programs) operating in an environment to maximize a cumulative reward. For example, optimizing control of the motors in a robot (actions) to enable walking or some other form of locomotion (reward) in an environment. Importantly, there are not clear labels assigned to actions. Sub-optimal actions can be taken and there is no explicit mechanism for correction.</p>
+<p>Due to this uncertainty there is a trade-off that must be made between exploring different options and exploiting the options currently known. One area that has seen widespread commercial use and exposes these issues is optimizing web content to maximize user engagement. For example, selecting articles (and their titles) to show to website visitors to get them to click. These tasks are often modeled as a multi-armed bandit task.</p>
+<ul class="simple">
+<li><a class="reference external" href="../Wk09-Advanced-ML-tasks-Reinforcement-Learning.ipynb">Week 9 Reinforcement learning</a></li>
+</ul>
+</div>
+<div class="section" id="anomaly-detection">
+<h2>Anomaly detection<a class="headerlink" href="#anomaly-detection" title="Permalink to this headline">¶</a></h2>
+<p>Anomaly detection identifies samples that appear to differ from the underlying distribution of the dataset.</p>
+<ul class="simple">
+<li><a class="reference external" href="../Wk09-Advanced-ML-tasks-Anomaly-Detection.ipynb">Week 9 Anomaly detection</a></li>
+</ul>
+</div>
+</div>
+
+
+           </div>
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../resources/index.html" class="btn btn-neutral float-right" title="Further Resources" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../week8/index.html" class="btn btn-neutral" title="Week 8" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2016, Jonathan Street.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../',
+            VERSION:'1.0',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true
+        };
+    </script>
+      <script type="text/javascript" src="../_static/jquery.js"></script>
+      <script type="text/javascript" src="../_static/underscore.js"></script>
+      <script type="text/javascript" src="../_static/doctools.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="../_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+   
+
+</body>
+</html>

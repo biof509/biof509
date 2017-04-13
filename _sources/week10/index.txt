@@ -16,6 +16,7 @@ Files
 Download the file below:
 
 * `Programming paradigms <../Wk10-Paradigms.ipynb>`_
+* `Programming paradigms with in class additions <../Wk10-Paradigms-in-class-additions.ipynb>`_
 
  
 

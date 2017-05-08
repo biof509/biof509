@@ -28,6 +28,7 @@ Contents:
    week11/index.rst
    week12/index.rst
    week13/index.rst
+   week14/index.rst
    resources/index.rst
 
    
